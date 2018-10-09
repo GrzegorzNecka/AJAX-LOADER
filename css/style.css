@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+*{
+    font-size: 20px;
+}
+
+main#post-list figure,
+div.load button {
+    margin: auto;
+    width: 600px;
+}
+
+div.load button {
+    margin: 50px auto;
+    display: block;
+    height: 100px;
+}
